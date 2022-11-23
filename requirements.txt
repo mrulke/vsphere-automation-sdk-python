@@ -4,9 +4,9 @@ pyVmomi >= 6.7
 six (>=1.12)
 
 requests (>=2.27.1)
-pyOpenSSL (==22.0.0)
-cryptography (==36.0.0)
-setuptools (==62.0.0)
+pyOpenSSL (>=22.0.0)
+cryptography (>=36.0.0)
+setuptools (>=62.0.0)
 ###### SDK requirements ######
 vapi-client-bindings == 4.0.0
 vmc-client-bindings
